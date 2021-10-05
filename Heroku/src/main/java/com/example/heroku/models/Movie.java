@@ -6,7 +6,7 @@ import lombok.Data;
 import javax.persistence.*;
 
 @Data
-@Table(name="artists")
+@Table(name="movies")
 @Entity
 public class Movie {
     @Id
