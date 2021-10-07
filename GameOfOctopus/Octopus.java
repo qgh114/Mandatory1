@@ -92,7 +92,7 @@ public class Octopus extends Animal {
                 break;
 
             default:
-                activity = "I dont know, I thouht you knew \uD83D\uDC19 ";
+                activity = "I dont know, I thought you knew \uD83D\uDC19 ";
         }
         return activity;
 
